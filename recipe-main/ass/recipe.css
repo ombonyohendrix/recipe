@@ -1,0 +1,42 @@
+header,h2
+{
+    color: #A4A400;
+    background-color:#F0F0F0;
+    font-family: Lucida Sans Unicode, Helvetica, Arial, sans-serif,Verdana, Geneva; 
+    text-decoration: underline;
+}
+header{
+    text-align:center;
+    font-size: 22pt;
+    width: 100%;
+   
+}
+body
+{
+    color:#404040 ;
+    font-size: 11pt;
+    font-family: Georgia, Garamond, serif;
+}
+h2{
+    
+    text-align: left;
+    font-size: 18pt;
+    font-style: normal;
+    
+    text-decoration: underline;
+    margin-block: 50px;}
+a{
+ color: #A4A400;
+}
+footer{
+    font-family: monospace;
+    letter-spacing: 3px;
+}
+    
+div{
+    text-indent: 50px;
+    background-color: #FFFFA8;
+    font-style: italic;
+    margin-inline: 50px;
+        
+}
